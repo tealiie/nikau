@@ -1,14 +1,5 @@
 body {
-  background: #fbeffc;
-  font-family: georgia, serif;
+  background: #ffccff;
+  font: times new roman;
 }
 
-h1 {
-  background: #ff2fda;
-  padding: 10px;
-  font: Times New Roman;
-}
-
-h2 {
-  font: Times New Roman;
-}
