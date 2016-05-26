@@ -1,7 +1,3 @@
-body {
-  background: #ffccff;
-}
-
 display {
   flex: flex-wrap: wrap;
 }
