@@ -1,7 +1,20 @@
-body {
-  background: #ffccff;
+.heading {
+  background-color: #ff1ea8;
+  font-family: serif;
+  font-weight: bold;
+  font-size: 45px;
+  color:#cfffcd;
+  text-align: center;
+  padding:5px 0px;
+  margin: 0px;
+  border:2px solid black;
 }
 
-display {
-  flex: flex-wrap: wrap;
+.sub_heading {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px 2px;
+  margin: 0px;
+
 }
