@@ -1,10 +1,9 @@
 
 .heading {
-  background-color: #ff1ea8;
   font-family: serif;
   font-weight: bold;
   font-size: 45px;
-  color:#F4E8FF;
+  color:#ff1ea8;
   text-align: center;
   padding:5px 100px;
   margin: 0px;
@@ -22,11 +21,12 @@
 }
 
 #navbar {
-  background-color: #df7baa;
+  background-color: #FCCDFF;
   color: white;
   float: left;
   display: inline-block;
-
+  width: 30%;
+  margin-top: 2px;
 }
 
 a {
@@ -34,12 +34,24 @@ a {
 }
 
 a:hover {
-  color: black;
   font-weight: bold;
 }
 
-.summary {
-  float: right;
-  display: inline-block;
+a:link {
+  color: black;
+}
 
+a:visited {
+  color: black
+}
+
+.summary {
+  float-wrap: right;
+  display: inline-block;
+  width: 65%;
+  padding: 3px 5px 5px 10px;
+}
+
+li {
+  color: black;
 }
