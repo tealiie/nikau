@@ -12,21 +12,32 @@
 }
 
 .sub_heading {
-  background-color: black;
-  color: white;
+  background-color: #999999;
+  color: black;
   text-align: center;
   padding: 5px 100px;
   margin: 0px;
   display: block;
+  border: 2px solid black;
+  border-top: 0px;
 }
 
 #navbar {
-  background-color: #FCCDFF;
-  color: white;
+  color: #ff1ea8;
   float: left;
   display: inline-block;
   width: 30%;
+  height: 60%;
   margin-top: 2px;
+  position: relative;
+  text-align: right;
+}
+
+.summary {
+  float-wrap: right;
+  display: inline-block;
+  width: 65%;
+  padding: 3px 5px 5px 20px;
 }
 
 a {
@@ -35,23 +46,18 @@ a {
 
 a:hover {
   font-weight: bold;
+  color: black;
 }
 
 a:link {
-  color: black;
+  color: #ff1ea8;
 }
 
 a:visited {
-  color: black
-}
-
-.summary {
-  float-wrap: right;
-  display: inline-block;
-  width: 65%;
-  padding: 3px 5px 5px 10px;
+  color: #ff1ea8;
 }
 
 li {
-  color: black;
+  color: #ff1ea8;
+  list-style-type: none;
 }
