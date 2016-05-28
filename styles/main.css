@@ -31,13 +31,15 @@
   margin-top: 2px;
   position: relative;
   text-align: right;
+  font-size: 18px;
 }
 
 .summary {
   float-wrap: right;
   display: inline-block;
   width: 65%;
-  padding: 3px 5px 5px 20px;
+  padding: 7px 5px 5px 20px;
+  font-size: 18px;
 }
 
 a {
