@@ -3,11 +3,15 @@
   font-family: serif;
   font-weight: bold;
   font-size: 45px;
-  color:#cfffcd;
+  color:#F4E8FF;
   text-align: center;
   padding:5px 0px;
   margin: 0px;
   border:2px solid black;
+  clear: both;
+  position: relative fixed;
+  
+  
 }
 
 .sub_heading {
@@ -16,5 +20,6 @@
   text-align: center;
   padding: 5px 2px;
   margin: 0px;
-
+  clear: both;
+  position: relative fixed;
 }
