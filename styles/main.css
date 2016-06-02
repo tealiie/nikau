@@ -7,39 +7,41 @@
 
 .box1 { 
   background:#ff66ff;
-  padding:10px 10px;
+  padding:10px 15px;
+  margin:0px 0px 0px 50px;
 }
 .box2 { 
   background:#ff0099;
-  padding:25px 10px;
+  padding:25px 15px;
 }
 .box3 { 
   background:#ff66cc;
-  padding:15px 10px;
+  padding:15px 15px;
 }
 .box4 { 
   background:#ffccff;
-  padding: 30px 20px;
+  padding: 30px 30px;
 }
 .box5 { 
   background:#ff0099;
-  padding: 10px 10px;
+  padding: 10px 15px;
 }
 .box6 { 
   background:#ff66cc;
-  padding: 20px 10px;
+  padding: 20px 15px;
 }
 .box7 { 
   background:#ffccff;
-  padding: 15px 10px;
+  padding: 15px 15px;
 }
 .box8 { 
   background:#ff66ff;
-  padding: 25px 10px;
+  padding: 25px 15px;
 }
 .box9 { 
   background:#ff0099;
-  padding: 15px 10px;
+  padding: 15px 15px;
+  margin:0px 50px 0px 0px;
 }
 
 
