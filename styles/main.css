@@ -8,15 +8,16 @@
 
 .box {
   color: white;
+  font-size: 100px;
   padding: 10px;
 }
 
-.box 1 {background:ff66ff;}
-.box 2 {background:ff66cc;}
-.box 3 {background:df7baa;}
-.box 4 {background:ff66ff;}
-.box 5 {background:ff0099;}
-.box 6 {background:ff66cc;}
-.box 7 {background:ffccff;}
-.box 8 {background:ff66ff;}
-.box 9 {background:df7baa;}
+.box1 {background:ff66ff;}
+.box2 {background:ff66cc;}
+.box3 {background:df7baa;}
+.box4 {background:ff66ff;}
+.box5 {background:ff0099;}
+.box6 {background:ff66cc;}
+.box7 {background:ffccff;}
+.box8 {background:ff66ff;}
+.box9 {background:df7baa;}
