@@ -1,44 +1,45 @@
 .box {
+  font-family: Verdana;
   color: white;
-  font-size: 100px;
+  font-size: 50px;
   padding: 10px;
 }
 
 .box1 { 
   background:#ff66ff;
-  padding:20px 10px;
+  padding:10px 5px;
 }
 .box2 { 
   background:#ff0099;
-  padding:50px 10px;
+  padding:25px 5px;
 }
 .box3 { 
   background:#ff66cc;
-  padding:30px 10px;
+  padding:15px 5px;
 }
 .box4 { 
   background:#ffccff;
-  padding: 60px 20px;
+  padding: 30px 10px;
 }
 .box5 { 
   background:#ff0099;
-  padding: 20px 10px;
+  padding: 10px 5px;
 }
 .box6 { 
   background:#ff66cc;
-  padding: 40px 10px;
+  padding: 20px 5px;
 }
 .box7 { 
   background:#ffccff;
-  padding: 30px 10px;
+  padding: 15px 5px;
 }
 .box8 { 
   background:#ff66ff;
-  padding: 50px 10px;
+  padding: 25px 5px;
 }
 .box9 { 
   background:#ff0099;
-  padding: 30px 10px;
+  padding: 15px 5px;
 }
 
 
@@ -48,8 +49,18 @@
   justify-content: center;
   align-items: baseline;
   flex-wrap: block;
+  border-top: 5px double #ff66cc;
+  border-bottom: 2px solid #ff66cc;
+  padding: 5px;
+  background-image: url(unicorn.png),url(unicorn.png),url(unicorn.png),url(unicorn.png);
 }
 
-.nav {
-  float: left;
+.subheading {
+  display: block;
+  text-align: center;
+  color: red;
+  font-family: cursive;
+  border-bottom: 2px solid #ff66cc;
+  padding: 0px;
+  margin: 0px;
 }
