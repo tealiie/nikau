@@ -21,17 +21,31 @@
   background:#ffccff;
   padding: 60px 20px;
 }
-.box5 { background:#ff0099;}
-.box6 { background:#ff66cc;}
-.box7 { background:#ffccff;}
-.box8 { background:#ff66ff;}
-.box9 { background:#ff0099;}
+.box5 { 
+  background:#ff0099;
+  padding: 20px 10px;
+}
+.box6 { 
+  background:#ff66cc;
+  padding: 40px 10px;
+}
+.box7 { 
+  background:#ffccff;
+  padding: 30px 10px;
+}
+.box8 { 
+  background:#ff66ff;
+  padding: 50px 10px;
+}
+.box9 { 
+  background:#ff0099;
+  padding: 30px 10px;
+}
 
 
 .heading {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: baseline;
 }
