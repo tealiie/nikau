@@ -1,3 +1,21 @@
+.box {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  padding: 10px;
+}
+
+.box1 { background:ff66ff;}
+.box2 { background:ff66cc;}
+.box3 { background:df7baa;}
+.box4 { background:ff66ff;}
+.box5 { background:ff0099;}
+.box6 { background:ff66cc;}
+.box7 { background:ffccff;}
+.box8 { background:ff66ff;}
+.box9 { background:df7baa;}
+
+
 .heading {
   display: flex;
   flex-direction: row;
@@ -5,19 +23,3 @@
   justify-content: center;
   align-items: baseline;
 }
-
-.box {
-  color: white;
-  font-size: 100px;
-  padding: 10px;
-}
-
-.box1 {background:ff66ff;}
-.box2 {background:ff66cc;}
-.box3 {background:df7baa;}
-.box4 {background:ff66ff;}
-.box5 {background:ff0099;}
-.box6 {background:ff66cc;}
-.box7 {background:ffccff;}
-.box8 {background:ff66ff;}
-.box9 {background:df7baa;}
