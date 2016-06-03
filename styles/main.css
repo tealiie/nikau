@@ -3,12 +3,13 @@
   color: white;
   font-size: 50px;
   padding: 10px;
+  margin: 0px;
 }
 
 .box1 { 
   background:#ff66ff;
   padding:10px 15px;
-  margin:0px 0px 0px 50px;
+  margin:0px 0px 0px 100px;
 }
 .box2 { 
   background:#ff0099;
@@ -41,7 +42,7 @@
 .box9 { 
   background:#ff0099;
   padding: 15px 15px;
-  margin:0px 50px 0px 0px;
+  margin:0px 100px 0px 0px;
 }
 
 
@@ -54,6 +55,7 @@
   border-top: 5px double #ff66cc;
   border-bottom: 2px solid #ff66cc;
   padding: 5px;
+  margin: 0px;
 }
 
 .subheading {
@@ -64,4 +66,12 @@
   border-bottom: 2px solid #ff66cc;
   padding: 0px;
   margin: 0px;
+}
+
+.sidebar {
+  column-count: 3;
+}
+
+.blog {
+  column-count: 5;
 }
