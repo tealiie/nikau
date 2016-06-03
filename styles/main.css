@@ -68,10 +68,58 @@
   margin: 0px;
 }
 
+.container {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
 .sidebar {
-  column-count: 3;
+  width: 35%;
+  float: left;
+  text-align: center;
+}
+  
+a:link{
+  text-decoration: none;
+  color: #ff0099;
+}
+
+a:visited { 
+  text-decoration: none;
+  color: #ff0099;
+}
+
+a:hover {
+  text-decoration: bold;
+  color: black;
+}
+
+a:active {
+  text-decoration: none;
+  color: #ff0099;
+}
+
+li {
+   padding: 0px;
+   list-style: none;
+   color: black;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+  color:#ff0099;
 }
 
 .blog {
-  column-count: 5;
+  width: 75%;
+  float: right;
+  margin-left: 35%;
 }
+
+.cartoon {
+  width: 100%;
+  float: center;
+}
+
