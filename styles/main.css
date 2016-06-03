@@ -98,11 +98,12 @@ ul {
 }
 
 [class*='col-'] {
-  float: left;
+  float: right;
 }
 
 .col-1-4 {
   width: 30%;
+  text-align: right;
 }
   
 .col-3-4 {
