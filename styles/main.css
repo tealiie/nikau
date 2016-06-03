@@ -54,6 +54,7 @@
   border-bottom: 2px solid #ff66cc;
   padding: 5px;
   margin: 0px;
+  background: #cccccc;
 }
 
 .subheading {
@@ -63,8 +64,9 @@
   background: #999999 ;
   font-family: cursive;
   border-bottom: 2px solid #ff66cc;
-  padding: 0px;
+  padding: 5px 0px;
   margin: 0px;
+  font-size: 15px;
 }
 
 a:link{
@@ -90,11 +92,13 @@ a:active {
 li {
   list-style: none;
   color: black;
+  font-size: 18px
 }
 
 ul {
   list-style: none;
   color:#ff0099;
+  font-size: 18px;
 }
 
 [class*='col-'] {
@@ -114,3 +118,6 @@ ul {
   float: center;
 }
 
+p {
+  font-size: 15px;
+}
