@@ -110,6 +110,6 @@ ul {
 }
 
 .img {
-  align-content: center;
+  float: center;
 }
 
