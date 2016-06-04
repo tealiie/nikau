@@ -71,12 +71,12 @@
 
 a:link{
   text-decoration: none;
-  color: #ff0099;
+  color: #ff66cc;
 }
 
 a:visited { 
   text-decoration: none;
-  color: #ff0099;
+  color: #ff66cc;
 }
 
 a:hover {
@@ -86,7 +86,7 @@ a:hover {
 
 a:active {
   text-decoration: none;
-  color: #ff0099;
+  color: #ff66cc;
 }
 
 li {
@@ -97,7 +97,7 @@ li {
 
 ul {
   list-style: none;
-  color:#ff0099;
+  color:#ff66cc;
   font-size: 18px;
 }
 
@@ -126,6 +126,11 @@ p {
 .discussion {
   font-size: 20px;
   font: bold;
+}
+
+.h5 {
+  color: #ff0099;
+  font-weight: bold;
 }
 
 @media only screen and (max-device-width: 550px) {
