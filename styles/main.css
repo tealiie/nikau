@@ -115,6 +115,11 @@ ul {
   text-align: center;
 }
 
+.col-2-2-2-2 {
+  width: 25%;
+  align-content: center;
+}
+
 .img {
   float: center;
 }
