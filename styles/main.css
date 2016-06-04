@@ -128,11 +128,6 @@ p {
   font: bold;
 }
 
-.h5 {
-  color: #ff0099;
-  font-weight: bold;
-}
-
 @media only screen and (max-device-width: 550px) {
     div {
       width: 400px;
