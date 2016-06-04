@@ -115,9 +115,9 @@ ul {
   text-align: center;
 }
 
-.one-third column {
-  width: 30%;
-
+.one-fouth .column {
+  width: 20%;
+  float: inline-block;
 }
 
 .img {
