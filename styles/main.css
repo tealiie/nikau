@@ -107,11 +107,12 @@ ul {
 
 .col-1-4 {
   width: 30%;
-  text-align: right;
+  text-align: left;
 }
   
 .col-3-4 {
   width: 70%;
+  text-align: right;
 }
 
 .img {
@@ -126,3 +127,8 @@ p {
   font-size: 20px;
   font: bold;
 }
+
+@media only screen and (max-device-width: 550px) {
+    div {
+      width: 400px;
+    }
